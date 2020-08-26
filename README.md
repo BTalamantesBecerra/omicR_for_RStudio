@@ -8,12 +8,9 @@ omicR in R Studio (~20 min)
 https://youtu.be/2dEgOBjcvM8 
 
 1)	You need to install the following:
+
 a.	Python V3 or latest: https://www.python.org/downloads/
+
 b.	Biopython https://biopython.org/
-c.	Download the omicR project. This should include at least the following:  
-“omicR.Rproj”, 
-“TestingPyCharm_MKfasta.py”,  
-“TestingPyCharm_Downloading_genomes.py”, 
-“TestingPyCharm_MakeDataBase.py”, 
-“TestingPyCharm_BLAST_filtering_and_all.py”, 
-“TestingPyCharm_NCBI_BLAST_filtering.py”
+
+c.	Download the omicR project. This should include at least the following:  “omicR.Rproj”, “TestingPyCharm_MKfasta.py”,  “TestingPyCharm_Downloading_genomes.py”, “TestingPyCharm_MakeDataBase.py”, “TestingPyCharm_BLAST_filtering_and_all.py”, “TestingPyCharm_NCBI_BLAST_filtering.py”
