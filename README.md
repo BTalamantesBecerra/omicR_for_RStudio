@@ -7,9 +7,6 @@ watch the tutorial video in YouTube
 omicR in R Studio (~20 min)
 https://youtu.be/2dEgOBjcvM8 
 
-
-omicR for R studio runs using Python scripts through R Studio. You can download the R project in: https://github.com/BTalamantesBecerra/omicR_for_RStudio
-
 1)	You need to install the following:
 a.	Python V3 or latest: https://www.python.org/downloads/
 b.	Biopython https://biopython.org/
