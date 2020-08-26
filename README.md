@@ -14,3 +14,5 @@ a.	Python V3 or latest: https://www.python.org/downloads/
 b.	Biopython https://biopython.org/
 
 c.	Download the omicR project. This should include at least the following:  “omicR.Rproj”, “TestingPyCharm_MKfasta.py”,  “TestingPyCharm_Downloading_genomes.py”, “TestingPyCharm_MakeDataBase.py”, “TestingPyCharm_BLAST_filtering_and_all.py”, “TestingPyCharm_NCBI_BLAST_filtering.py”
+
+d.	BLAST+ latest version: https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/
