@@ -17,6 +17,9 @@ d.	BLAST+ latest version: https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/
 
 
 
+
+
+
 INSTRUCTIONS 
 
 *Download and unzip the files from GitHub.
@@ -30,6 +33,9 @@ INSTRUCTIONS
 
 
 
+
+
+
 RECOMMENDATIONS
 
 *Remember to write double back slashes in all your paths.
@@ -38,11 +44,16 @@ RECOMMENDATIONS
 
 *If you install Python or other files in a location with blank spaces in the name, you can escape these by adding double quotes and a backslash.
 
+
+
 *EXAMPLE:
 
 A path with this structure will not work: "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64"
 
 You will need to adapt with this format "C:\\\"Program Files (x86)\"\\\"Microsoft Visual Studio\"\\Shared\\Python36_64\\python.exe"
+
+
+
 
 
 To use these scripts read the user guide or Watch the tutorial video in YouTube omicR in R Studio (~20 min)
