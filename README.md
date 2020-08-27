@@ -3,9 +3,7 @@
 omicR creates fasta files, downloads genomes from NCBI using the refseq number, creates databases to run BLAST+, runs BLAST+ and filters these results to obtain the best match per sequence. 
 These scripts can be used to run BLAST alignment of short-read (DArTseq data) and long-read sequences (Illumina, PacBio… etc). You can use reference genomes from NCBI, genomes from your private collection, contigs, scaffolds or any other genetic sequence that you would like to use as reference. 
 
-watch the tutorial video in YouTube
-omicR in R Studio (~20 min)
-https://youtu.be/2dEgOBjcvM8 
+
 
 1)	You need to install the following:
 
@@ -45,4 +43,9 @@ RECOMMENDATIONS
 A path with this structure will not work: "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64"
 
 You will need to adapt with this format "C:\\\"Program Files (x86)\"\\\"Microsoft Visual Studio\"\\Shared\\Python36_64\\python.exe"
+
+
+To use these scripts read the user guide or Watch the tutorial video in YouTube omicR in R Studio (~20 min)
+
+https://youtu.be/2dEgOBjcvM8 
 
