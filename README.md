@@ -60,3 +60,6 @@ To use these scripts read the user guide or Watch the tutorial video in YouTube 
 
 https://youtu.be/2dEgOBjcvM8 
 
+
+
+For usage, please refer to the file "OmicR_User_guide.pdf" available in this repository.
