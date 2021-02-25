@@ -56,10 +56,9 @@ You will need to adapt with this format "C:\\\"Program Files (x86)\"\\\"Microsof
 
 
 
-To use these scripts read the user guide or Watch the tutorial video in YouTube omicR in R Studio (~20 min)
+To use these scripts read the user guide or Watch the tutorial video in YouTube omicR in R Studio (~18 min)
 
-https://youtu.be/2dEgOBjcvM8 
-
+https://youtu.be/g46a3Gd1q6g
 
 
 For usage, please refer to the file "OmicR_User_guide.pdf" available in this repository.
