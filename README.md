@@ -62,3 +62,8 @@ https://youtu.be/g46a3Gd1q6g
 
 
 For usage, please refer to the file "OmicR_User_guide.pdf" available in this repository.
+
+
+If you use this script, please cite:
+
+Berenice Talamantes-Becerra, Jason Carling, Arthur Georges. omicR: A tool to facilitate BLASTn alignments for sequence data, SoftwareX, Volume 14, 2021, 100702, ISSN 2352-7110, https://doi.org/10.1016/j.softx.2021.100702. Website: https://www.sciencedirect.com/science/article/pii/S2352711021000479
